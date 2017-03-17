@@ -1,8 +1,3 @@
----
-layout: page
-permalink: /libble-multithread/
----
-
 ## ParaGraphE
 
 ParaGraphE provides a library for parallel knowledge graph embedding, which implements several knowledge graph embedding methods on a single machine with multiple cores and a shared memory. The
