@@ -5,7 +5,7 @@ implemented methods in the current version include TransE[1], TransH[2], TransR[
 
 ParaGraphE aims at accelerating the speed of training and testing of knowledge graph embedding methods. We re-implement these methods in a multi-thread way, which achieves a significant time reduction without influencing the accuracy. The parallel optimization/learning algorithms of ParaGraphE are based on the lock-free strategies in [6,7].
 
-More details about ParaGraphR can be found at the arXiv draft[8].
+More details about ParaGraphE can be found at the arXiv draft[8].
 
 ### [Compilation](#compilation)
 
